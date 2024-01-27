@@ -5,7 +5,7 @@
 - [Requirements:](#requirements)
 - [Goal:](#goal)
 - [Data Source:](#data-Source)
-- [Tools Used:](#tools-used:)
+- [Tools Used:](#tools-used)
 - [Data Preparation & Modelling Approach:](#data-preparation-&-modelling-approach)
 - [Insights:](#insights)
 - [Areas for Business Improvement:](#areas-for-business-improvement)
