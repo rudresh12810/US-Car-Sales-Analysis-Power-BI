@@ -1,9 +1,14 @@
 __________________________________________________________________________________________
 
 # US-Car-Sales-Analysis-Power-BI
-### Rudresh 
-### [Linkedin](#https://www.linkedin.com/in/rudresh-patidar/)
+### By Rudresh Patidar  
+### 💼 LinkedIn [Clik here](https://www.linkedin.com/in/rudresh-patidar/) and Connect to me for Data related Useful information.
+### 💻 Portfolio [Click here](https://www.novypro.com/profile_projects/rudreshpatidar) and See the Live Dashboard.
+### ⏯️ YouTube  [Click here](https://www.youtube.com/@rudresh12810/videos) and watch my projects and updates.
+### 📓 Github   [Click here](https://github.com/rudresh12810?tab=repositories) and see the other Projects. 
 __________________________________________________________________________________________
+
+
 ### Table of Content:
 - [Overview:](#overview)
 - [Requirements:](#requirements)
@@ -15,7 +20,6 @@ ________________________________________________________________________________
 - [Areas for Business Improvement:](#areas-for-business-improvement)
 - [Conclusion:](#conclusion)
 - [DASHBOARD:](#dashboard)
-
 
 
 __________________________________________________________________________________________
