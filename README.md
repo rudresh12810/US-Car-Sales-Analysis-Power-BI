@@ -1,19 +1,24 @@
-# US-Car-Sales-Analysis-Power-BI-
+__________________________________________________________________________________________
 
+# US-Car-Sales-Analysis-Power-BI
+### Rudresh 
+### [Linkedin](#https://www.linkedin.com/in/rudresh-patidar/)
+__________________________________________________________________________________________
 ### Table of Content:
 - [Overview:](#overview)
 - [Requirements:](#requirements)
 - [Goal:](#goal)
-- [Data Source:](#data-Source)
+- [Data Source:](#data-source)
 - [Tools Used:](#tools-used)
 - [Data Preparation and Modelling Approach:](#data-preparation-and-modelling-approach)
 - [Insights:](#insights)
 - [Areas for Business Improvement:](#areas-for-business-improvement)
 - [Conclusion:](#conclusion)
+- [DASHBOARD:](#dashboard)
 
 
 
-
+__________________________________________________________________________________________
 
 ### Overview:
 The primary objective of this project is to design and develop a comprehensive Car 
@@ -22,7 +27,10 @@ platform that extracts valuable insights from visual representations of key
 performance indicators (KPIs) associated with our car sales. Through this dashboard, 
 we aim to provide a user-friendly interface that empowers stakeholders to easily 
 interpret and analyze crucial data, fostering informed decision-making based on a 
-deeper understanding of our sales performance trends
+deeper understanding of our sales performance trends.
+
+__________________________________________________________________________________________
+
 
 ### Requirements:
 ### KPI:
@@ -52,6 +60,7 @@ deeper understanding of our sales performance trends
 6. Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc.
 
 
+__________________________________________________________________________________________
 
 
 ### Goal:
@@ -64,17 +73,20 @@ processes, enabling the team to make informed and strategic choices based on a
 real-time understanding of sales performance trends and patterns.
 
 
+__________________________________________________________________________________________
 
 
 ### Data Source: 
 - Kaggle Dataset [Download Here](https://www.kaggle.com/code/eugeniokukes/car-sales-eda-machine-learning)
 
 
+__________________________________________________________________________________________
 
 
 ### Tools Used:
 - Excel - Data Cleaning
 - Power BI – Data Analysis & Visualization
+__________________________________________________________________________________________
 
 
 ### Data Preparation and Modelling Approach:
@@ -84,8 +96,14 @@ real-time understanding of sales performance trends and patterns.
 - Data Cleaning and Formatting.
 - Creating a Calendar Table.
 - Establishing Relations for the Data Model.
+__________________________________________________________________________________________
 
 ### Insights:
+
+
+![Screenshot 2024-01-26 152718](https://github.com/rudresh12810/US-Car-Sales-Analysis-Power-BI-/assets/76532612/b08f0757-7141-4b90-994b-9fdf3466a08f)
+
+
 - Year-to-Date (YTD) Total Sales: A remarkable $371.2 million.
 - Year-over-year (YOY) Growth in Total Sales: An impressive 23.59% increase.
 - YTD Average Price: Stands at $28,000.
@@ -100,12 +118,16 @@ real-time understanding of sales performance trends and patterns.
 
 
 
+
 #### Top 5 Companies by Car Sales
 - Chevrolet leads the way with 1,819 cars sold.
 - Dodge follows closely with 1,671.
 - Ford with 1,614.
 - Volkswagen with 1,333.
 - Mercedes-Benz with 1,285.
+
+![Screenshot 2024-01-26 152802](https://github.com/rudresh12810/US-Car-Sales-Analysis-Power-BI-/assets/76532612/76b66ad2-acc0-4b71-ada2-470970f91078)
+
 
 #### In the Year-To-Date Sales breakdown by Body Style:
 
@@ -115,11 +137,17 @@ real-time understanding of sales performance trends and patterns.
 - Passenger vehicles claim a share of 17.09%, generating $63M in sales.
 - Hardtops round out the categories, encompassing 13.85% and $51M in sales.
 
+  ![Screenshot 2024-01-26 152822](https://github.com/rudresh12810/US-Car-Sales-Analysis-Power-BI-/assets/76532612/88d9f26b-30cc-4295-b13a-42a5b336f4ef)
+
+
 #### In the Year-To-Date Sales breakdown by Body Color:
 
 - The majority of cars sold are in the Pale White color, contributing significantly with sales reaching $17M, representing 47.02% of the total sales across all color categories.
 - Black-colored cars follow closely, achieving sales of $125M, constituting 33.74% of the overall sales.
 - Red-colored cars contribute $71M in sales, making up 19.24% of the total sales for the period.
+
+  ![Screenshot 2024-01-26 152752](https://github.com/rudresh12810/US-Car-Sales-Analysis-Power-BI-/assets/76532612/d62d473a-0c04-4a77-9ff1-e15446799c3f)
+
 
 #### Observing the Area Chart depicting the Year-to-Date Sales Weekly Trend:
 - In the 36th week, there is a notable peak, indicating the highest car sales of $14.9 million.
@@ -129,11 +157,16 @@ real-time understanding of sales performance trends and patterns.
 - In the 29th week, the sales figure reaches $9.7 million.
 - The 24th week records $9.5 million in car sales etc.
 
+  ![Screenshot 2024-01-26 152901](https://github.com/rudresh12810/US-Car-Sales-Analysis-Power-BI-/assets/76532612/fe67b5c1-8c97-4601-a1f6-25efa6cc4de1)
+
+
 #### The Map Chart highlights Year-To-Date cars sold across different dealer regions:
 
 - Predominantly, the Austin 2296 and Janesville 2113 regions stand out as key areas for car sales.
 - In contrast, there is a comparatively lower number of car sales in regions such as Scottsdale 1912, Pasco 1749, and Greenville 1740 among others.
 - The geographical distribution depicted in the chart offers a clear overview of the varying sales performance across different dealer regions.
+- 
+![Screenshot 2024-01-26 152924](https://github.com/rudresh12810/US-Car-Sales-Analysis-Power-BI-/assets/76532612/74c33706-f3e0-4624-b7fa-ddb3e17e7d91)
 
 
 
@@ -146,6 +179,7 @@ real-time understanding of sales performance trends and patterns.
 - BMW exhibits a solid sales trend, securing 445 cars sold YTD.
 - These figures showcase the positive sales momentum of these key companies in the current period.
 
+__________________________________________________________________________________________
 
 
 ## Areas for Business Improvement:
@@ -157,8 +191,20 @@ real-time understanding of sales performance trends and patterns.
 - Regularly benchmark against competitors, especially the top 5 companies, to identify opportunities for improvement and maintain a competitive edge.
  
 #### By focusing on these areas, the business can fine-tune its strategies, improve customer satisfaction, and stay ahead in the dynamic automotive market.
+__________________________________________________________________________________________
 
 
 
 ## Conclusion:
 #### The Car Sales Dashboard project has successfully achieved its goal of providing a dynamic and intuitive platform for extracting actionable insights from key performance indicators (KPIs) related to our car sales. Through comprehensive data analysis and visualization using Power BI, we've uncovered valuable insights that can significantly impact our decision-making processes.
+
+
+__________________________________________________________________________________________
+
+## DASHBOARD:
+
+ 
+![Screenshot 2024-01-26 151502](https://github.com/rudresh12810/US-Car-Sales-Analysis-Power-BI-/assets/76532612/8a403f62-d465-491d-b351-60e32ce408e1)
+![Screenshot 2024-01-26 151533](https://github.com/rudresh12810/US-Car-Sales-Analysis-Power-BI-/assets/76532612/91bc6bb2-3349-432f-a9fb-82fbcf4d4e94)
+
+
