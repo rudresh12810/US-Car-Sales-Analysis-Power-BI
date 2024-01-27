@@ -6,7 +6,7 @@
 - [Goal:](#goal)
 - [Data Source:](#data-Source)
 - [Tools Used:](#tools-used)
-- [Data Preparation & Modelling Approach:](#data-preparation&modelling-approach)
+- [Data Preparation and Modelling Approach:](#data-preparation-and-modelling-approach)
 - [Insights:](#insights)
 - [Areas for Business Improvement:](#areas-for-business-improvement)
 - [Conclusion:](#conclusion)
@@ -77,7 +77,7 @@ real-time understanding of sales performance trends and patterns.
 - Power BI – Data Analysis & Visualization
 
 
-### Data Preparation & Modelling Approach:
+### Data Preparation and Modelling Approach:
 - Data Loading and Inspection.
 - Handling Missing Values.
 - Removing Blank Values and Outliers.
